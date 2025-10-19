@@ -36,7 +36,7 @@ export const videos = [
     id: 5,
     title: "O Leão",
     date: "17 de Setembro, 2025",
-    text: "Jesus e o Leão da tribo de Judá",
+    text: "Jesus é o Leão da tribo de Judá",
     videoUrl: "https://www.youtube.com/embed/JTmeyIoKgMo",
     duration: 3.37,
   },
