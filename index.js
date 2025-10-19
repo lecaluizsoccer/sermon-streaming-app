@@ -5,12 +5,12 @@ const midheaderContainer = document.querySelector(".midheader-container")
 const body = document.querySelector("body")
 
 const midheaderHtml = `<div class="left-container">
-                            <h4 class="header-title">Lastest sermon</h4>
+                            <h4 class="header-title">Sermão recente</h4>
                             <h3 class="header-subtitle">${firstVideo.title}</h3>
                             <p class="header-text">${firstVideo.text}
                             </p>
                             <div class="video-header">
-                                <h2 class="watch-btn">Watch Now</h2>
+                                <h2 class="watch-btn">Assista agora!</h2>
                                 <h2 class="dot">.</h2>
                                 <h2>${firstVideo.duration}</h2>
                             </div>
