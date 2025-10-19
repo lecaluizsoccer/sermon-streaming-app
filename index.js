@@ -10,7 +10,7 @@ const midheaderHtml = `<div class="left-container">
                             <p class="header-text">${firstVideo.text}
                             </p>
                             <div class="video-header">
-                                <h2 class="watch-btn">Assista agora!</h2>
+                                <h2 class="watch-btn">Assista agora</h2>
                                 <h2 class="dot">.</h2>
                                 <h2>${firstVideo.duration}</h2>
                             </div>
